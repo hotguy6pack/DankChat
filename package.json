@@ -6,7 +6,7 @@
   "author": "Owen Chen",
   "private": true,
   "dependencies": {
-    "express": "^4.10.2"
+    "express": "^4.10.2",
+    "socket.io": "^1.3.5"
   }
 }
-
